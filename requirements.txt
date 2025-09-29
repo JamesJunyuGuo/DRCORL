@@ -1,0 +1,44 @@
+# Core ML and RL dependencies
+torch>=1.13.0,<2.0.0
+numpy>=1.21.0
+gym>=0.26.0
+gymnasium>=0.28.0
+
+# Safe RL specific
+dsrl
+safety-gymnasium>=0.4.0
+
+# Physics simulation
+mujoco>=2.3.0
+
+# Visualization and plotting
+matplotlib>=3.0.0
+imageio>=2.0.0
+
+# Data handling
+h5py>=3.0.0
+pandas>=1.1.0
+scipy>=1.9.0
+
+# Machine Learning utilities
+scikit-learn>=1.1.0
+tqdm>=4.60.0
+
+# Experiment tracking and utilities
+wandb
+ml-collections
+absl-py
+
+# Development tools
+black>=23.3.0
+pre-commit>=3.3.0
+
+# Optional: Additional ML frameworks (uncomment if needed)
+# jax
+# flax
+
+# Advanced optimization
+numba>=0.56.0
+
+# Optional: Additional optimization (uncomment if needed)  
+# cvxpy
