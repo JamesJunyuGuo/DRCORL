@@ -4,7 +4,9 @@
 **Junyu Guo, Zhi Zheng, Donghao Ying, Shangding Gu, Ming Jin, Costas Spanos, Javad Lavaei**  
 *Neural Information Processing Systems (NeurIPS), 2025*
 
-[![arXiv](https://img.shields.io/badge/arXiv-2502.12391-b31b1b.svg)](https://arxiv.org/abs/2502.12391)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.12391-b31b1b.svg)](https://arxiv.org/abs/2502.12391) [![OpenReview](https://img.shields.io/badge/OpenReview-DRCORL-blue)](https://openreview.net/forum?id=eSIRst0WVy)
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-2025%20Poster-4b8bbe.svg)](https://neurips.cc/virtual/2025/poster/116918)
+
 
 ---
 
