@@ -9,6 +9,14 @@
 
 
 ---
+If you appreciate our work, feel free to cite our work
+```latex
+@inproceedings{guodon,
+  title={Don’t Trade Off Safety: Diffusion Regularization for Constrained Offline RL},
+  author={Guo, Junyu and Zheng, Zhi and Ying, Donghao and Jin, Ming and Gu, Shangding and Spanos, Costas and Lavaei, Javad},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
+}
+```
 
 ## Overview
 
